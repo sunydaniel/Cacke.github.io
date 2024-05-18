@@ -9,7 +9,7 @@ body{
     font-weight: 400;
     line-height: 58px;
     letter-spacing: 0%;
-    text-align: left;
+    text-align: center;
     margin-left: 5%;
     margin-right: 5%;
 }
@@ -30,13 +30,13 @@ th{
     font-size: 24px;
 }
 td {
-    padding: 0px 150px 0px 150px;
+    padding: 0px 100px 0px 100px;
 
 	text-align: center;
     margin: auto;
 }
 tr{
-    
+    text-align: center;
     display: flex;
     justify-content: space-around;
 }
